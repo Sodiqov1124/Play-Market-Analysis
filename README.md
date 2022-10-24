@@ -2,20 +2,14 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
-
+Google play store has a large amount of data.
+I analyzed them and visualized the necessary aspects
 ## Description
-TODO - How have you solved the problem?
-
+First, I figure out main pints of data,then cleaned and visualizeated data
 ## Installation
-TODO - How to install your project? npm install? make? make re?
-
+just writing python and project's name into the terminal
 ## Usage
-TODO - How does it work?
-```
-./my_project argument1 argument2
-```
-
+First clean_data function cleans the data and print_histogram function visualizate the data and other functions work like this
 ### The Core Team
 
 
